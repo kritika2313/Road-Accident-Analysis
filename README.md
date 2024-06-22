@@ -30,4 +30,5 @@ The findings of this report highlight the critical areas where road safety measu
 
 
 ##Dashboard:
-![Uploading Screenshot 2024-06-22 133336.png…]()
+![Screenshot 2024-06-22 133336](https://github.com/kritika2313/Road-Accident-Analysis/assets/92994108/3b3c35ae-1eca-4623-a3b2-1eac6add3478)
+
